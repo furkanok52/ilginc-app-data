@@ -1,4 +1,11 @@
 *.py
-keywords_cache.json
+*.bak
+*.tmp
 .env
 __pycache__/
+_deleted_images/
+_images_reindex_tmp/
+keywords_cache.json
+verified_hashes.json
+verified_fact_ids.json
+used_pixabay_ids.json

@@ -7153,5 +7153,1290 @@
     "deepDiveText": "VPN'ler, internet trafiğinizi şifreleyerek ve IP adresinizi maskeleyerek çevrimiçi gizliliğinizi ve güvenliğinizi artırır. Ancak, tamamen anonimlik sağlamazlar. VPN sağlayıcınızın veri saklama politikaları, tarayıcı çerezleri veya diğer izleme yöntemleri hala sizi tanımlayabilir. Tam anonimlik çok daha karmaşık ve zordur ve ek önlemler gerektirir.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/654.jpg",
     "id": "654"
+  },
+  {
+    "id": "655",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Tarihteki en eski mikroskop camı merceklerle değil, doğrudan su damlalarının kırılma indisi kullanılarak üretilmiştir.",
+    "answerHeadline": "YANLIŞ! İlk mercekler taştan işlenmişti.",
+    "deepDiveText": "Bilinen en eski optik mercekler M.Ö. 8. yüzyıla ait Asur uygarlığına ait Nimrud kuvars kristalleridir. Su damlaları mikroskobu ise 17. yüzyılda Antoni van Leeuwenhoek tarafından küresel cam kürecikler şeklinde geliştirilmiştir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/655.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "656",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Dünya'nın atmosferinde bulunan toplam oksijenin yarısından fazlasını karadaki ormanlar değil, denizdeki fitoplanktonlar üretir.",
+    "answerHeadline": "DOĞRU! Okyanuslar gezegenin akciğeridir.",
+    "deepDiveText": "Okyanuslarda yaşayan mikroskobik fotosentetik organizmalar olan fitoplanktonlar, atmosferik oksijenin yaklaşık %50 ila %80'ini üretmektedir. Tropikal yağmur ormanları ise sanılanın aksine ürettikleri oksijenin çoğunu kendi ekosistemlerinde tüketir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/656.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "657",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Kuantum Dolanıklık teorisine göre birbirine dolanık iki parçacık arasındaki bilgi aktarımı ışık hızından daha hızlı gerçekleşebilir.",
+    "answerHeadline": "YANLIŞ! Bilgi aktarımı ışık hızını aşamaz.",
+    "deepDiveText": "Dolanık parçacıkların durum ölçümleri anlık olarak birbirini belirlese de, bu durum klasik bir haberleşme veya bilgi transferi için kullanılamaz. İletişim teorisi yasalarına göre hiçbir kullanılabilir bilgi ışık hızından hızlı iletilemez.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/657.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "658",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Venüs gezegeninde üst atmosferdeki rüzgarlar, gezegenin kendi ekseni etrafındaki dönme hızından 60 kat daha hızlı eser.",
+    "answerHeadline": "DOĞRU! Venüs'te süper-rotasyon olayı yaşanır.",
+    "deepDiveText": "Venüs kendi etrafında çok yavaş dönerken, üst atmosfer rüzgarları saatte 360 kilometre hıza ulaşarak gezegenin etrafını sadece dört günde turlar. Atmosferik süper-rotasyon olarak adlandırılan bu fenomenin mekanizması hala tam olarak çözülememiştir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/658.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "659",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Dünyanın en yüksek dağı Everest, Dünya'nın merkezine en uzak nokta olma ünvanına da sahiptir.",
+    "answerHeadline": "YANLIŞ! En uzak nokta Chimborazo'dur.",
+    "deepDiveText": "Dünyanın kutuplardan basık, ekvatordan şişkin olan geoid şekli nedeniyle Ekvador'daki Chimborazo Yanardağı gezegenin merkezinden en uzak noktadır. Everest deniz seviyesine göre en yüksek dağ olsa da ekvatordan uzaktır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/659.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "660",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Mutlak sıfır noktasına (-273.15°C) soğutulan helyum gazı, süperakışkan hale geçerek kabın çeperlerinden yukarı doğru tırmanır.",
+    "answerHeadline": "DOĞRU! Helyum-4 yerçekimine meydan okur.",
+    "deepDiveText": "Helyum-4 yaklaşık 2.17 Kelvin seviyesine soğutulduğunda sıfır viskoziteye sahip bir süperakışkana dönüşür. Bu durumda moleküler sürtünme tamamen kaybolduğu için sıvı, içinde bulunduğu kabın yüzeyini kaplayarak dışarı doğru kendiliğinden akar.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/660.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "661",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Kuş tüylerinin mavi renkli görünmesinin sebebi mavi pigment içermeleri değil, tüylerin mikro yapısındaki ışık kırılmasıdır.",
+    "answerHeadline": "DOĞRU! Mavi kuş tüylerinde pigment yoktur.",
+    "deepDiveText": "Doğadaki mavi renkli kuşların (örneğin Mavi Alakarga) tüylerinde mavi kimyasal pigment bulunmaz. Yapısal renklenme adı verilen bu olayda, tüydeki keratin ve hava boşlukları sadece mavi ışık dalga boyunu geri yansıtır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/661.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "662",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Saf elmas maddesi o kadar dayanıklıdır ki, standart açık hava atmosferinde hiçbir koşulda yakılarak yok edilemez.",
+    "answerHeadline": "YANLIŞ! Elmas açık havada yanabilir.",
+    "deepDiveText": "Elmas tamamen karbon atomlarından oluştuğu için saf oksijen ortamında yaklaşık 800°C ısıtıldığında tutuşur ve arkasında kül bırakmadan karbondioksit gazına dönüşür. Sertliği ısıya karşı mutlak bir direnç sağlamaz.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/662.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "663",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Tarihte bilinen ilk biyolojik savaş örneği, Orta Çağ'da Kırım'daki Kefe kuşatmasında veba taşıyan cesetlerin mancınıkla fırlatılmasıdır.",
+    "answerHeadline": "DOĞRU! Vebalı cesetler silah olarak kullanıldı.",
+    "deepDiveText": "1346 yılında Ceneviz kontrolündeki Kefe şehrini kuşatan Moğol (Altın Orda) ordusu, vebadan ölen askerlerin cesetlerini surların içine fırlatmıştır. Bu olayın Kara Ölüm'ün Avrupa'ya yayılmasını tetikleyen ana unsurlardan biri olduğu kabul edilir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/663.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "664",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Nükleer reaktörlerde kullanılan uranyum yakıtı, patlamaya hazır hale getirilmiş düşük kalibreli bir atom bombasıdır.",
+    "answerHeadline": "YANLIŞ! Zenginleştirme oranları tamamen farklıdır.",
+    "deepDiveText": "Nükleer santrallerde kullanılan uranyum-235 genellikle %3 ila %5 oranında zenginleştirilmiştir. Bir nükleer bomba için ise en az %90 zenginleştirilmiş uranyum gerektiğinden santral yakıtının patlaması fiziksel olarak imkansızdır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/664.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "665",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "İnsan gözü, optik yapısı gereği aslında görüntüleri beyne ters olarak iletir ve beyin bunu düzleştirir.",
+    "answerHeadline": "DOĞRU! Retinaya düşen görüntü terstir.",
+    "deepDiveText": "Göz merceği dış dünyadan gelen ışığı kırarak retinaya düşürdüğünde, optik kurallar gereği görüntü baş aşağı oluşur. Görsel korteks bu ters elektrik sinyallerini işleyerek dünyayı doğru yönüyle algılamamızı sağlar.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/665.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "666",
+    "mode": "estimate",
+    "category": "BİLİM • TAHMİN",
+    "statement": "Dünyadaki bilinen en eski fosilleşmiş canlı organizma izleri yaklaşık kaç milyar yıl öncesine tarihlendirilmektedir?",
+    "answerHeadline": "Doğru Yanıt: 3.7 Milyar Yıl",
+    "deepDiveText": "Grönland'daki Isua yeşiltaş kuşağında bulunan stromatolit yapılarındaki mikroorganizma izleri yaklaşık 3.7 milyar yıl öncesine aittir. Bu veri, gezegen oluştuktan kısa süre sonra yaşamın başladığını gösterir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/666.jpg",
+    "options": [
+      "1.2 Milyar Yıl",
+      "2.5 Milyar Yıl",
+      "3.7 Milyar Yıl"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "667",
+    "mode": "estimate",
+    "category": "BİLİM • TAHMİN",
+    "statement": "Güneş'in çekirdeğinde gerçekleşen nükleer füzyon sonucu oluşan bir fotonun Güneş yüzeyine ulaşması ortalama kaç yıl sürer?",
+    "answerHeadline": "Doğru Yanıt: 100 Bin Yıl",
+    "deepDiveText": "Çekirdekte üretilen gama ışını fotonları, yoğun plazma ortamında trilyonlarca kez soğurulup tekrar yayınlanarak rastgele bir yürüyüş yapar. Yüzeye ulaşması 100.000 yılı bulurken, yüzeyden Dünya'ya ulaşması sadece 8 dakika sürer.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/667.jpg",
+    "options": [
+      "8 Dakika",
+      "100 Bin Yıl",
+      "5 Milyon Yıl"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "668",
+    "mode": "estimate",
+    "category": "BİLİM • TAHMİN",
+    "statement": "Periyodik tablodaki elementlerden biri olan Fransiyum'un (Fr) tüm Dünya kabuğunda toplamda kaç gram bulunduğu tahmin edilmektedir?",
+    "answerHeadline": "Doğru Yanıt: Yaklaşık 30 gram",
+    "deepDiveText": "Fransiyum son derece kararsız bir radyoaktif elementtir ve en kararlı izotopunun yarılanma ömrü sadece 22 dakikadır. Bu nedenle herhangi bir anda Dünya kabuğunda toplamda sadece 20 ila 30 gram Fransiyum bulunur.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/668.jpg",
+    "options": [
+      "Yaklaşık 30 gram",
+      "Yaklaşık 500 kilogram",
+      "Yaklaşık 12 ton"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": "669",
+    "mode": "true_false",
+    "category": "VÜCUT",
+    "statement": "İnsan gözündeki kornea tabakası, oksijen ihtiyacını kan damarları yerine doğrudan dış havadaki havadan difüzyon yoluyla karşılar.",
+    "answerHeadline": "DOĞRU! Korneada hiç kan damarı yoktur.",
+    "deepDiveText": "Korneanın şeffaf kalabilmesi için içinde kan damarı bulunmaz ve ihtiyaç duyduğu oksijeni doğrudan gözyaşı filmi aracılığıyla havadan alır. Bu özelliği sayesinde kornea, insan vücudunda doğrudan dış ortamla gaz alışverişi yapan nadir dokulardandır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/669.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "670",
+    "mode": "true_false",
+    "category": "VÜCUT",
+    "statement": "Yetişkin bir insanın dalağında, ihtiyaç anında dolaşıma salınmak üzere vücuttaki toplam trombositlerin yaklaşık üçte biri depolanır.",
+    "answerHeadline": "DOĞRU! Dalak dev bir kan rezervuarıdır.",
+    "deepDiveText": "Dalak, kanı süzmenin yanı sıra vücuttaki trombositlerin (pıhtılaşma hücreleri) yaklaşık %30'unu kendi dokusu içinde hazır depoda tutar. Ağır bir kanama veya fiziksel travma durumunda dalak kasılarak bu hücreleri hızla ana dolaşıma pompalar.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/670.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "671",
+    "mode": "true_false",
+    "category": "VÜCUT",
+    "statement": "Akciğerlerimizdeki alveolar makrofajlar, solunan yabancı parçacıkları sindirmek için hücre içinde mikro düzeyde elektroliz akımı üretir.",
+    "answerHeadline": "YANLIŞ! Elektroliz değil, kimyasal enzimler kullanılır.",
+    "deepDiveText": "Alveolar makrofajlar yabancı maddeleri ve patojenleri fagositoz yöntemiyle yutar ve lizozom adı verilen organellerdeki asidik enzimlerle sindirir. Hücre içinde elektrik akımı veya elektroliz mekanizması bulunmaz.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/671.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "672",
+    "mode": "true_false",
+    "category": "VÜCUT",
+    "statement": "İnsan karaciğeri, glikojen depolama kapasitesi dolduğunda fazla glikozu doğrudan kemik iliğine göndererek orada kalsiyuma dönüştürür.",
+    "answerHeadline": "YANLIŞ! Fazla glikoz yağa dönüştürülür.",
+    "deepDiveText": "Karaciğerdeki glikojen depoları dolduğunda, aşırı glikoz de novo lipogenez süreciyle yağ asitlerine çevrilir ve yağ dokusunda depolanır. Glikozun kemik iliğinde kalsiyuma dönüşmesi kimyasal ve biyolojik olarak imkansızdır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/672.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "673",
+    "mode": "true_false",
+    "category": "VÜCUT",
+    "statement": "Pankreastaki Langerhans adacıkları, vücut sıcaklığı 38 derecenin üzerine çıktığında insülin salgısını tamamen durdurarak korumaya geçer.",
+    "answerHeadline": "YANLIŞ! Ateş yükselmesi insülini durdurmaz.",
+    "deepDiveText": "Yüksek ateş durumunda pankreas insülin salgılamaya devam eder; ancak stres hormonlarının (kortizol ve adrenalin) artışı nedeniyle dokularda insülin direnci gelişebilir. Langerhans adacıkları sıcaklık nedeniyle kendini kapatan bir anahtara sahip değildir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/673.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "674",
+    "mode": "true_false",
+    "category": "VÜCUT",
+    "statement": "Böbreklerdeki nefronlar, süzülen suyun ve elektrolitlerin %99'undan fazlasını kana geri emerek vücudun dehidrasyona girmesini engeller.",
+    "answerHeadline": "DOĞRU! Böbrekler muazzam bir geri emilim yapar.",
+    "deepDiveText": "Günde yaklaşık 180 litre sıvı nefronlarda süzülür ancak bunun 1,5-2 litresi idrar olarak dışarı atılır. Geri kalan sıvı ve hayati mineraller, tübüller boyunca titizlikle reabsorbsiyon (geri emilim) mekanizmasıyla dolaşıma iade edilir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/674.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "675",
+    "mode": "true_false",
+    "category": "VÜCUT",
+    "statement": "İnsan beynindeki glia hücrelerinden biri olan mikroglialar, nöronlar arasındaki kullanılmayan sinapsları fiziksel olarak yiyerek budar.",
+    "answerHeadline": "DOĞRU! Mikroglialar sinaptik budama gerçekleştirir.",
+    "deepDiveText": "Özellikle gelişim döneminde ve öğrenme süreçlerinde mikroglia hücreleri, zayıf veya gereksiz sinaptik bağlantıları fagositoz yoluyla hücresel düzeyde sindirir. Bu 'sinaptik budama' mekanizması beynin nöral ağlarını daha verimli hale getirir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/675.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "676",
+    "mode": "true_false",
+    "category": "VÜCUT",
+    "statement": "Mide mukozasında yer alan foveolar hücreler, mide asidinin organı sindirmesini önlemek için bikarbonat açısından zengin bir mukus salgılar.",
+    "answerHeadline": "DOĞRU! Mide kendi kendini böyle korur.",
+    "deepDiveText": "Foveolar hücrelerin ürettiği alkali mukus tabakası, pH seviyesi 1.5'e kadar düşen hidroklorik asit ile mide dokusu arasında koruyucu bir bariyer oluşturur. Bikarbonat iyonları, epitel yüzeyine ulaşan asidi anında nötralize eder.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/676.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "677",
+    "mode": "true_false",
+    "category": "VÜCUT",
+    "statement": "İç kulaktaki kulak salyangozunda (kohlea) bulunan tüy hücreleri öldüğünde, beyin sapından gelen sinyalle kök hücrelerden yeniden üretilir.",
+    "answerHeadline": "YANLIŞ! Memelilerde tüy hücreleri rejenerasyona uğramaz.",
+    "deepDiveText": "İnsanlarda kohleadaki ses algılayıcı tüy hücreleri hasar gördüğünde veya öldüğünde tekrar yenilenmez. Kuş ve balıklarda bu regenerasyon yeteneği bulunsa da memelilerde kalıcı işitme kayıplarının ana sebebi bu rejenere olamama durumudur.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/677.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "678",
+    "mode": "true_false",
+    "category": "VÜCUT",
+    "statement": "Kemik dokusunda bulunan osteositler, mekanik stresi hissedip osteoblast ve osteoklast hücrelerine kemik yapımı veya yıkımı emri verir.",
+    "answerHeadline": "DOĞRU! Osteositler kemiğin mekanik sensörleridir.",
+    "deepDiveText": "Kemik matrisi içine gömülü olan osteositler, kemiğe binen yükü ve mikro gerilimleri kanalları aracılığıyla algılar. Mekanotransdüksiyon sayesinde kemiğin nerede güçlendirilmesi veya nereden doku emilmesi gerektiğini hormonal ve kimyasal olarak yönetirler.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/678.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "679",
+    "mode": "true_false",
+    "category": "VÜCUT",
+    "statement": "Gözdeki ağtabakada (retina) bulunan koni hücreleri, gece görüşü sırasında rodopsin proteinini parçalayarak kızılötesi ışığı algılar.",
+    "answerHeadline": "YANLIŞ! Koni hücreleri renkli ve parlak ışık içindir.",
+    "deepDiveText": "Gece ve düşük ışıkta görüşü sağlayan hücreler çubuk (çomak) hücreleridir ve içerdikleri pigment rodopsindir. Ayrıca insan gözü doğal yapısı gereği kızılötesi dalga boylarını algılama yeteneğine sahip değildir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/679.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "680",
+    "mode": "estimate",
+    "category": "VÜCUT • TAHMİN",
+    "statement": "Sağlıklı bir yetişkinin vücudunda bulunan tüm kılcal damarların (kapiler) ortalama toplam yüzey alanı kaç metrekaredir?",
+    "answerHeadline": "CEVAP: Yaklaşık 600 metrekare!",
+    "deepDiveText": "Vücudumuzdaki milyarlarca kılcal damarın duvarları son derece incedir ve toplam yüzey alanı yaklaşık 500-1000 metrekare (ortalama 600 m²) arasındadır. Bu muazzam alan, dokular ile kan arasındaki madde ve gaz alışverişinin son derece hızlı gerçekleşmesini sağlar.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/680.jpg",
+    "options": [
+      "25 m²",
+      "100 m²",
+      "600 m²"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "681",
+    "mode": "estimate",
+    "category": "VÜCUT • TAHMİN",
+    "statement": "Bir insanın beyin omurilik sıvısı (BOS) günde ortalama kaç mililitre üretilerek sürekli olarak yenilenir?",
+    "answerHeadline": "CEVAP: Günde yaklaşık 500 ml!",
+    "deepDiveText": "Beyindeki koroid pleksus tarafından günde yaklaşık 500 ml beyin omurilik sıvısı salgılanır. Beyin omurilik mesafesinde aynı anda sadece 130-150 ml sıvı bulunabildiği için, bu sıvı günde 3 ila 4 kez tamamen süzülüp devir daim edilir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/681.jpg",
+    "options": [
+      "500 ml",
+      "1500 ml",
+      "3000 ml"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": "682",
+    "mode": "estimate",
+    "category": "VÜCUT • TAHMİN",
+    "statement": "İnsan vücudundaki eritrositlerin (alvarların) ortalama dolaşım ömrü kaç gündür?",
+    "answerHeadline": "CEVAP: Tam 120 gün!",
+    "deepDiveText": "Kırmızı kan hücreleri çekirdeksiz yapıları nedeniyle kendi kendilerini onaramazlar ve yaklaşık 120 gün boyunca kılcal damarlardan geçerek oksijen taşırlar. Ömrünü tamamlayan eritrositler dalak ve karaciğerdeki makrofajlar tarafından yıkılarak geri dönüştürülür.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/682.jpg",
+    "options": [
+      "30 gün",
+      "120 gün",
+      "365 gün"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "683",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Dünyanın bilinen en eski doğal nükleer reaktörü Gabon'da keşfedilmiş olup milyonlarca yıl boyunca kendi kendine çalışmıştır.",
+    "answerHeadline": "DOĞRU! Gabon'da Doğal Nükleer Reaktör Bulundu",
+    "deepDiveText": "1972 yılında Gabon'un Oklo bölgesinde keşfedilen uranyum yataklarında yaklaşık 2 milyar yıl önce kendiliğinden başlayan nükleer füzyon tepkimeleri tespit edilmiştir. Bu doğal reaktörler yüz binlerce yıl boyunca kesintisiz bir şekilde düşük güç üreterek çalışmıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/683.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "684",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Albert Einstein, fotoelektrik etki üzerine yaptığı çalışmalarıyla değil, İzafiyet Teorisi ile Nobel Fizik Ödülü'nü kazanmıştır.",
+    "answerHeadline": "YANLIŞ! Ödülü Fotoelektrik Etki İle Aldı",
+    "deepDiveText": "Einstein 1921 Nobel Fizik Ödülü'nü Görelilik Teorisi sebebiyle değil, fotoelektrik etki yasasının keşfi ve teorik fiziğe katkıları nedeniyle almıştır. Görelilik teorisi o dönemde hâlâ deneysel olarak tam doğrulanamadığı için ödül komitesi tarafından riskli bulunmuştu.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/684.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "685",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Deniz kaplumbağaları sadece Dünya'nın manyetik alanını algılamakla kalmaz, navigasyon için kuantum dolanıklık mekanizmalarından yararlanır.",
+    "answerHeadline": "YANLIŞ! Kuantum Dolanıklık Göçte Kullanılmaz",
+    "deepDiveText": "Deniz kaplumbağaları yönlerini Dünya'nın manyetik alan yoğunluğunu ve eğim açısını hücresel düzeydeki manyetoreseptörler vasıtasıyla belirler. Bu biyolojik pusula sistemi kuantum dolanıklık ilkesine değil, klasik kimyasal ve biyokimyasal duyarlılığa dayanmaktadır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/685.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "686",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Saf sıvı su, hiçbir kristalleşme çekirdeği olmaması durumunda eksi 40 dereceye kadar donmadan sıvı halde kalabilir.",
+    "answerHeadline": "DOĞRU! Su Aşırı Soğuma Gösterebilir",
+    "deepDiveText": "İçinde yabancı madde veya toz parçacığı bulunmayan yüksek saflıktaki su, homojen çekirdeklenme gerçekleşene kadar aşırı soğuma durumuna geçer. Bu sayede -42 dereceye kadar buz kristali oluşturmadan sıvı formunu koruyabilir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/686.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "687",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Kafadan bacaklı türü olan ahtapotların vücutlarında üç adet kalp ve mavi renkli bakır bazlı kan bulunur.",
+    "answerHeadline": "DOĞRU! Ahtapotlar Üç Kalbe Sahiptir",
+    "deepDiveText": "Ahtapotların iki kalbi solungaçlara kan pompalamakla görevliyken, üçüncü kalp kanı vücudun geri kalanına dolaştırır. Kanlarındaki oksijen taşıyıcı pigment demir bazlı hemoglobin yerine bakır bazlı hemosiyanin olduğu için kanları mavi renktedir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/687.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "688",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "İnsan beyninde nöronlardan ziyade gliyal hücrelerin çoğunlukta olduğu ve bu oranının bire bir olduğu kanıtlanmıştır.",
+    "answerHeadline": "DOĞRU! Nöron Ve Gliyal Sayısı Eşittir",
+    "deepDiveText": "Eski nörobilim kaynaklarında gliyal hücrelerin nöronlardan 10 kat fazla olduğu belirtilse de güncel izotropik kesirleme yöntemleri ikisinin de yaklaşık 86 milyar olduğunu göstermiştir. Bu durum beyin hücrelerinin bire bir oranında dengelendiğini kanıtlar.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/688.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "689",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Plüton gezegeninin atmosferinde düzenli olarak sıvı metan yağmurları yağar ve yüzeyde büyük göller oluşturur.",
+    "answerHeadline": "YANLIŞ! Sıvı Yağmurlar Titan'da Görülür",
+    "deepDiveText": "Plüton'un yüzey sıcaklığı ortalama -230 derece olduğu için metan gazı sıvı halde bulunamaz ve doğrudan buzlaşır. Güneş sisteminde sıvı metan yağmurları ve gölleri olan tek gök cismi Satürn'ün uydusu Titan'dır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/689.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "690",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Kuzey Kutbu'nda bulunan auroralar (kutup ışıkları), çıkardıkları yüksek frekanslı ses dalgalarıyla insan kulağı tarafından duyulabilir.",
+    "answerHeadline": "DOĞRU! Auroralar Ses Dalgaları Üretir",
+    "deepDiveText": "Finlandiyalı araştırmacılar kutup ışıklarının oluştuğu terselme katmanında meydana gelen elektrik boşalmalarının hafif patlama ve hışırtı sesleri ürettiğini doğrulamıştır. Yerden 70 metre yüksekte oluşan bu akustik etki dingin gecelerde insan kulağıyla işitilebilir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/690.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "691",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Dünya üzerindeki tüm elmas kaynakları volkanik patlamalar sonucu mantodan yüzeye çıkan magmatik kayaçlarda oluşmuştur.",
+    "answerHeadline": "YANLIŞ! Bazı Elmaslar Meteor Kaynaklıdır",
+    "deepDiveText": "Doğal elmasların büyük kısmı yer kabuğunun derinliklerinde yüksek basınçla oluşsa da, bazı siyah elmaslar (karbonado) göktaşı çarpmalarıyla meydana gelmiştir. Ayrıca kozmik kökenli mikroskobik elmaslar meteoritlerin bünyesinde Dünya dışından gelmektedir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/691.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "692",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Venüs gezegeninde kükürt bileşiklerinden oluşan kar yağışı gerçekleşir ve dağ zirvelerini metalik bir tabakayla kaplar.",
+    "answerHeadline": "DOĞRU! Venüs'te Metalik Kar Yağar",
+    "deepDiveText": "Venüs'ün yüksek dağlarında buharlaşan kursun sülfür ve bizmut sülfür gibi ağır metaller üst atmosferde yoğunlaşarak dağ tepelerine çöker. Bu olay gezegenin yüksek noktalarında metalik parlaklığa sahip bir örtü oluşturur.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/692.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "693",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Lazer ışınları yerçekimi alanından etkilenmedikleri için uzayda hiçbir sapmaya uğramadan sonsuza kadar düz hat üzerinde ilerler.",
+    "answerHeadline": "YANLIŞ! Işık Bükülmeye Uğrar",
+    "deepDiveText": "Genel Görelilik Teorisi'ne göre kütleçekim uzay-zamanı büktüğü için fotonlardan oluşan lazer ışınları devasa kütlelerin yanından geçerken yollarını değiştirir. Kütleçekimsel merceklenme adı verilen bu olay ışığın eğri bir rota izlemesine neden olur.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/693.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "694",
+    "mode": "true_false",
+    "category": "BİLİM",
+    "statement": "Tarihteki ilk sentetik plastik olan Bakalit, elektrik yalıtımı amacıyla icat edilmiş ve tamamen ısıya dayanıklı bir polimerdir.",
+    "answerHeadline": "DOĞRU! Bakalit İlk Tam Sentetik Plastiktir",
+    "deepDiveText": "1907 yılında Leo Baekeland tarafından geliştirilen Bakalit, eritildikten sonra tekrar şekil değiştirmeyen termoset bir yapıya sahiptir. Bu buluş, modern sentetik malzemeler çağını ve endüstriyel plastik üretimini resmen başlatmıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/694.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "695",
+    "mode": "estimate",
+    "category": "BİLİM • TAHMİN",
+    "statement": "Dünya üzerinde yaşamış bilinen en büyük böcek türü olan Meganeuropsis'in kanat açıklığı yaklaşık kaç santimetredir?",
+    "answerHeadline": "Yanıt: Yaklaşık 75 santimetre",
+    "deepDiveText": "Erken Permiyen döneminde yaşayan bu dev yusufçuk akrabası, yüksek atmosferik oksijen oranı sayesinde devasa boyutlara ulaşabilmiştir. Fosil kayıtları, bu canlıların günümüz yırtıcı kuşları boyutunda kanat açıklığına sahip olduğunu göstermektedir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/695.jpg",
+    "options": [
+      "45 cm",
+      "75 cm",
+      "120 cm"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "696",
+    "mode": "estimate",
+    "category": "BİLİM • TAHMİN",
+    "statement": "Kütleçekimsel dalgaların varlığını deneysel olarak doğrulayan LIGO detektörleri hangi yıl bu tarihi keşfi gerçekleştirmiştir?",
+    "answerHeadline": "Yanıt: 2015 Yılında Keşfedildi",
+    "deepDiveText": "Einstein'ın yüzyıl önce öngördüğü kütleçekimsel dalgalar, iki karadeliğin birleşmesi sonucu oluşan uzay-zaman dalgalanmaları olarak 14 Eylül 2015'te saptanmıştır. Bu keşif bilim insanlarına 2017 Nobel Fizik Ödülü'nü kazandırmıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/696.jpg",
+    "options": [
+      "2005",
+      "2015",
+      "2021"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "697",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Dünyanın en kuzeyindeki kara parçası olan Kaffeklubben Adası'nda sporulasyon yapabilen moritanya yosunları yaşar.",
+    "answerHeadline": "YANLIŞ! Kaffeklubben'de damarlı bitkiler yetişir.",
+    "deepDiveText": "Kaffeklubben Adası'nda dondurucu soğuğa rağmen yosunlar değil, Saxifraga oppositifolia ve Papaver dahlianum gibi çiçekli damarlı bitkiler yaşayabilmektedir. Bu canlılar gezegenin en kuzeyinde fotosentez yapan karasal damarlı flora türleridir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/697.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "698",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Kosta Rika ve Panama sınırındaki Talamanca Dağları'nda yaşayan bazı kurbağa türleri tamamen ultraviyole ışık altında floresan yeşil parlar.",
+    "answerHeadline": "DOĞRU! Amfibilerde floresan ışıma mevcuttur.",
+    "deepDiveText": "2017 yılında keşfedilen Hypsiboas punctatus türü ağaç kurbağasının lenf ve deri dokuları ultraviyole ışığı emerek yeşil floresan ışık yayar. Bu durum karasal omurgalılarda tespit edilen ilk biyo-floresans örneklerinden biridir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/698.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "699",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Avustralya'daki Hillier Gölü'nün pembe rengi, içeriğindeki yüksek bakır sülfat minerallerinin güneş ışığını kırmasından kaynaklanır.",
+    "answerHeadline": "YANLIŞ! Renk kaynağı mikroorganizmalardır.",
+    "deepDiveText": "Gölün canlı pembe rengi bakır sülfat değil, yüksek tuzlulukta yaşayan Dunaliella salina algleri ve halofilik bakterilerin ürettiği karotenoid pigmentlerden kaynaklanır. Su kaptan çekildiğinde dahi pembe rengini korur.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/699.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "700",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Kuzey Zirvesi yakınındaki Sentinelese kabilesi, izolasyonları nedeniyle biyolojik olarak insanlığın bilinen en eski DNA dizilimini taşır.",
+    "answerHeadline": "YANLIŞ! En eski hat Afrikalı San halkındadır.",
+    "deepDiveText": "Sentinelese halkı izolasyonuyla bilinse de genetik olarak en eski insan haplotipi Güney Afrika'daki Khoe-San topluluklarına aittir. Kuzey Sentinel sakinleri ise Afrika dışına çıkan erken insan göç dalgasının torunlarıdır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/700.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "701",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Namib Çölü'ndeki peri halkaları denilen dairesel boşluklar, zehirli Euphorbia bitkilerinin toprağa salgıladığı kimyasallarla oluşur.",
+    "answerHeadline": "YANLIŞ! Sebep bitkiler arası rekabettir.",
+    "deepDiveText": "Son ekolojik araştırmalar, bu dairesel kurak desenlerin toksinlerden değil, bitkilerin kısıtlı su için girdiği kendi kendine organizasyon rekabeti ve kum termitlerinin yeraltı faaliyetlerinden kaynaklandığını göstermiştir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/701.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "702",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Grönland buzul tabakasının altında, yaklaşık 750 bin kilometre karelik alanı kaplayan kanyon ağı keşfedilmiştir.",
+    "answerHeadline": "DOĞRU! Buz altında devasa kanyon var.",
+    "deepDiveText": "2013 yılında radar verileriyle tespit edilen Grönland Mega Kanyonu, en az 750 km uzunluğunda ve 800 metre derinliğindedir. Bu yapı Büyük Kanyon'dan daha uzun olup buz tabakası oluşmadan önce eriyik suları taşımaktaydı.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/702.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "703",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Endonezya'daki Kawah Ijen yanardağı, yüksek kükürt gazının yanması nedeniyle geceleri mavi renkli lav görüntüsü oluşturur.",
+    "answerHeadline": "DOĞRU! Mavi alev saçan krater mevcut.",
+    "deepDiveText": "Kawah Ijen'deki parıltı aslında mavi renkli magma değil, kırıklardan yüksek basınçla çıkan kükürt gazlarının havadaki oksijenle reaksiyona girerek tutuşmasıdır. Yanan sıvı kükürt, mavi bir lav akıntısı ilüzyonu yaratır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/703.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "704",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Dünyanın bilinen en eski jeolojik çarpma kraterı Güney Afrika'daki 2 milyar yıllık Vredefort krateridir.",
+    "answerHeadline": "DOĞRU! Vredefort bilinen en eski kraterdir.",
+    "deepDiveText": "Yaklaşık 2.02 milyar yıl önce oluşan Vredefort kubbesi, teyit edilmiş en eski ve en büyük meteorit çarpma yapısıdır. Orijinal çapının 300 kilometre civarında olduğu tahmin edilmektedir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/704.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "705",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Sovyetler Birliği'nin açtığı Kola Derin Sondajı, aşırı basınç nedeniyle 15 bin metre derinlikte durdurulmuştur.",
+    "answerHeadline": "YANLIŞ! Aşırı sıcaklık nedeniyle durdu.",
+    "deepDiveText": "Sondaj 12.262 metreye ulaştığında matkaplar basınçtan ziyade beklenmeyen 180°C sıcaklıkla karşılaşmıştır. Bu derece yüksek sıcaklıkta kayalar plastikleşip ekipmanları işlevsiz kıldığı için çalışma sonlandırılmıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/705.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "706",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Amazon Havzası'ndaki Terra Preta adı verilen siyah topraklar, insan eliyle oluşturulmuş antik bir kompost sistemidir.",
+    "answerHeadline": "DOĞRU! Antik yerliler verimli toprak üretti.",
+    "deepDiveText": "Kolomb öncesi yerli halklar, besin değeri düşük Amazon toprağına odun kömürü, kemik ve organik atıklar ekleyerek Terra Preta'yı yaratmıştır. Bu verimli toprak binlerce yıl geçmesine rağmen kendini yenileme kapasitesini korur.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/706.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "707",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Doğu Afrika Yarık Vadisi'ndeki Ol Doinyo Lengai yanardağı, dünyada karbonatit magma üreten tek aktif volkandır.",
+    "answerHeadline": "DOĞRU! Siyah ve soğuk magma akar.",
+    "deepDiveText": "Tanzanya'daki bu volkan, silikat yerine sodyum ve potasyum zengin karbonatit lav çıkarır. Yanardağ lavları yalnızca 510°C civarında olup gündüzleri siyah bir katran gibi akar, havayla temas edince beyaza dönüşür.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/707.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "708",
+    "mode": "true_false",
+    "category": "DÜNYA",
+    "statement": "Bering Boğazı'ndaki Diomede Adaları arasındaki sınır çizgisinden geçildiğinde saat tam 12 saat geri alınır.",
+    "answerHeadline": "YANLIŞ! Fark 12 değil 21 saattir.",
+    "deepDiveText": "Büyük Diomede (Rusya) ile Küçük Diomede (ABD) arasında sadece 3.8 km mesafe bulunmasına rağmen aralarından Uluslararası Tarih Çizgisi geçer. İki ada arasındaki zaman farkı 21 saattir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/708.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "709",
+    "mode": "estimate",
+    "category": "DÜNYA • TAHMİN",
+    "statement": "Dünyanın bilinen en derin su altı mağarası olan Çekya'daki Hranice Uçurumu'nun ölçülebilen derinliği kaç metredir?",
+    "answerHeadline": "Hranice Uçurumu 473 metre derinliktedir.",
+    "deepDiveText": "2020 yılında yapılan robotik sondaj ölçümlerinde Hranice Uçurumu'nun en az 473 metre derinliğe ulaştığı kesinleşmiştir. Ancak uzaktan kumandalı aracın kablosu bittiği için tabanına henüz ulaşılamamıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/709.jpg",
+    "options": [
+      "473 metre",
+      "850 metre",
+      "1210 metre"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": "710",
+    "mode": "estimate",
+    "category": "DÜNYA • TAHMİN",
+    "statement": "Litostosferik plakaların hareketi sonucu Akdeniz'in tamamen kapanıp kurumasıyla oluşacak kriz yaklaşık kaç milyon yıl sonra gerçekleşecektir?",
+    "answerHeadline": "Akdeniz 50 milyon yıl sonra yok olacak.",
+    "deepDiveText": "Afrika plakasının kuzeye doğru hareketi sonucu Avrupa ile çarpışması sürmektedir. Jeolojik modellemelere göre yaklaşık 50 milyon yıl sonra Akdeniz tamamen kapanacak ve yerine devasa bir dağ silsilesi oluşacaktır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/710.jpg",
+    "options": [
+      "5 milyon yıl",
+      "50 milyon yıl",
+      "250 milyon yıl"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "711",
+    "mode": "estimate",
+    "category": "DÜNYA • TAHMİN",
+    "statement": "Atacama Çölü'nün bazı iç kısımlarında meteorolojik verilere göre kaç yıl boyunca hiç yağış kaydedilmemiştir?",
+    "answerHeadline": "Tam 400 yıl boyunca yağmur yağmadı.",
+    "deepDiveText": "Şili'deki Atacama Çölü'nün Calama şehri ve çevresindeki bazı alanlarda 1570 ile 1971 yılları arasında hiçbir kayda değer yağış gerçekleşmemiştir. Bölge dünya üzerindeki en eski ve en kuru çöl ortamıdır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/711.jpg",
+    "options": [
+      "40 yıl",
+      "170 yıl",
+      "400 yıl"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "712",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "Dünyanın ilk ticari kuvars kol saati olan Seiko Astron, piyasaya çıktığında orta sınıf bir otomobille aynı fiyata satılıyordu.",
+    "answerHeadline": "DOĞRU! Lüks Bir Otomobil Fiyatınaydı",
+    "deepDiveText": "Seiko 1969 yılında piyasaya sürdüğü Astron modeli için 450.000 yen talep etmişti ki bu miktar o dönemki Toyota Corolla fiyatına denkti. Kuvars mikroçip teknolojisinin henüz kütlesel üretime geçmediği o yıllarda bu saatler erişilemez bir lüks simgesiydi.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/712.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "713",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "Sovyetler Birliği, 1950'li yıllarda elektrik yerine tamamen su akışıyla çalışan hidrolik bilgi işlem bilgisayarları inşa etmiştir.",
+    "answerHeadline": "DOĞRU! Suyla Çalışan Bilgisayarlar Yapıldı",
+    "deepDiveText": "Vladimir Lukyanov tarafından tasarlanan su entegratörleri, karmaşık türevsel denklemleri borulardaki su seviyelerini değiştürerek çözüyordu. Bu hidrolik bilgisayarlar Sovyetler Birliği'nde 1980'lere kadar jeoloji ve inşaat hesaplamalarında aktif olarak kullanıldı.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/713.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "714",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "Ay'a iniş yapan Apollo 11'in Rehberlik Bilgisayarı, mantıksal devrelerini çalıştırmak için modern silikon çipler yerine manyetik çekirdekli iplikler kullanmıştır.",
+    "answerHeadline": "DOĞRU! Dokuma Hafıza Kullanıldı",
+    "deepDiveText": "Apollo bilgisayarının salt okunur belleği (ROM), kadın işçiler tarafından bakır tellerin manyetik halkaların içinden el işiyle geçirilmesiyle 'dokunmuştu'. Bu yapı radyasyona son derece dayanıklı olduğu için uzay görevinde tercih edilmişti.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/714.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "715",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "Güneş panellerinin çalışma verimliliği, sıcaklık arttıkça ortamdaki termal enerjiyi topladığı için doğrusal olarak yükselir.",
+    "answerHeadline": "YANLIŞ! Sıcaklık Artışı Verimi Düşürür",
+    "deepDiveText": "Yarı iletken fiziği gereği aşırı ısı, fotovoltaik hücrelerdeki serbest elektronların hareketini zorlaştırarak voltaj kayıplarına yol açar. Güneş panelleri en yüksek verimle çok sıcak değil, güneşli ama soğuk hava koşullarında çalışır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/715.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "716",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "Lityum-iyon pillerin içindeki elektrot tabakalarını üretmek için kullanılan kaplama makineleri, gazete matbaa baskı preslerinden türetilmiştir.",
+    "answerHeadline": "DOĞRU! Matbaa Teknolojisi Pillere Uyarlandı",
+    "deepDiveText": "Sony 1991'de ilk ticari lityum-iyon pili ürettiğinde, aktif kimyasal maddeleri folyolara hızlıca kaplamak için kendi ses kasedi ve gazete baskı makinelerini modifiye etmişti. Rulodan ruloya kaplama tekniği günümüzde de batarya üretiminin temelini oluşturur.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/716.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "717",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "Dünyadaki ilk ticari nükleer füzyon reaktörü, 2018 yılında Almanya'da tam kapasiteyle elektrik üretmeye başlamıştır.",
+    "answerHeadline": "YANLIŞ! Henüz Şebekeye Bağlı Füzyon Yoktur",
+    "deepDiveText": "Almanya'daki Wendelstein 7-X gibi deneysel stelleratörler füzyon plazmasını başarıyla hapsetse de ticari elektrik üretimi sağlayan bir füzyon santrali henüz inşa edilmemiştir. Günümüzdeki tüm nükleer santraller çekirdek bölünmesine dayalı fizyon prensibiyle çalışır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/717.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "718",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "Dünyanın bilinen en eski işletim sistemi olan UNIX, ilk olarak uzay mekiği simülatörlerini çalıştırmak amacıyla tasarlanmıştır.",
+    "answerHeadline": "YANLIŞ! Bir Oyun İçin Geliştirildi",
+    "deepDiveText": "UNIX'in ilk sürümü Ken Thompson tarafından 'Space Travel' adlı bir uzay simülasyon oyununu atıl durumdaki bir PDP-7 bilgisayarında çalıştırabilmek için yazılmıştı. Sistem daha sonra gelişerek modern sunucu ve mobil işletim sistemlerinin temeli haline geldi.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/718.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "719",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "ASML tarafından üretilen aşırı ultraviyole (EUV) litografi makineleri, ışık kaynağı oluşturmak için erimiş kalay damlalarına lazer fırlatır.",
+    "answerHeadline": "DOĞRU! Saniyede 50 Bin Kalay Damlası",
+    "deepDiveText": "Dünyanın en gelişmiş mikroçiplerini üreten EUV sistemleri, saniyede 50.000 kez düşen kalay damlacıklarına yüksek güçlü karbondioksit lazeri vurarak plazma oluşturur. Bu plazmanın yaydığı 13.5 nanometrelik aşırı ultraviyole ışık ile nanometrik devreler çizilir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/719.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "720",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "Sabit disklerin okuma kafaları, dönen disk yüzeyine fiziksel olarak temas ederek manyetik veriyi okur.",
+    "answerHeadline": "YANLIŞ! Temas Etmez Hava Yastığında Yüzer",
+    "deepDiveText": "Sabit disk kafaları, diskin yüksek hızda dönmesiyle oluşan hava akımının üzerinde tıpkı bir uçak gibi süzülür. Kafanın disğe olan mesafesi bir insan saç telinden veya virüsten çok daha incedir ancak fiziksel temas gerçekleşirse disk çizilir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/720.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "721",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "OLED ekranlarda kullanılan organik bileşikler, doğrudan deniz altındaki termal bacalarda yaşayan fosil organizmalardan sentetik olarak çıkarılır.",
+    "answerHeadline": "YANLIŞ! Laboratuvarda Sentezlenen Karbon Bileşikleridir",
+    "deepDiveText": "OLED'deki 'organik' kelimesi deniz canlılarını değil, kimyadaki karbon bazlı moleküler yapıları ifade eder. Bu küçük moleküller veya polimerler kimya laboratuvarlarında tamamen sentetik yöntemlerle üretilir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/721.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "722",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "Otomobillerdeki antilock fren sistemi (ABS), ilk olarak 1920'lerde uçakların iniş sırasında pistte kaymasını önlemek için geliştirilmiştir.",
+    "answerHeadline": "DOĞRU! Hava Taşımacılığı İçin İcat Edildi",
+    "deepDiveText": "Fransız mühendis Gabriel Voisin tarafından 1920'lerde uçaklar için geliştirilen mekanik sistemler, ağır uçakların inişte lastik patlatmasını engelliyordu. Bu teknoloji dijitalleşip küçültülerek 1970'lerde karayolu taşıtlarına uyarlanmıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/722.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "723",
+    "mode": "true_false",
+    "category": "TEKNOLOJİ",
+    "statement": "Modern fiber optik kablolarda ışık, cam lifin iç cidarından tamamen dışarı kırılarak sinyalin kaybolmadan iletilmesini sağlar.",
+    "answerHeadline": "YANLIŞ! Tam İç Yansıma İle İlerler",
+    "deepDiveText": "Fiber optik iletim, ışığın cam çekirdek dışına kırılmasıyla değil, çekirdek ve kaplama arasındaki kırıcılık indisi farkı sayesinde 'tam iç yansıma' yapmasıyla gerçekleşir. Işık dışarı kaçmadan kablo boyunca bir ayna gibi sıçrayarak yol alır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/723.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "724",
+    "mode": "estimate",
+    "category": "TEKNOLOJİ • TAHMİN",
+    "statement": "Elektrikli araç şarj standardı olan CHAdeMO protokolünün orijinal Japonca adı hangi anlama gelen bir kelime oyununa dayanır?",
+    "answerHeadline": "Bir Fincan Çay İçer misiniz?",
+    "deepDiveText": "CHAdeMO adı, Japonca 'O cha demo ikagadesu ka' (Bir fincan çay almaya ne dersiniz?) cümlesinden türetilmiştir. Araç şarj olurken sürücünün bir çay içecek kadar vakti olacağını simgeleyen esprili bir kısaltmadır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/724.jpg",
+    "options": [
+      "Bir fincan çay içer misiniz?",
+      "Şimşek kadar hızlı şarj",
+      "Geleceğin temiz enerjisi"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": "725",
+    "mode": "estimate",
+    "category": "TEKNOLOJİ • TAHMİN",
+    "statement": "Kuvars saat kristallerinin standart olarak saniyede 32.768 Hz frekansta titreşmesinin temel matematiksel sebebi nedir?",
+    "answerHeadline": "2 Sayısının Tam 15. Kuvvetidir",
+    "deepDiveText": "32.768 sayısı, 2'nin 15. kuvvetidir (2^15). Dijital devrelerdeki basit bir mantık kapısı zinciri, bu frekansı 15 kez ikie bölerek tam olarak 1 Hz'lik (saniyede 1 tık) son derece hassas bir zaman sinyali elde eder.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/725.jpg",
+    "options": [
+      "Dünyanın dönüş hızının katıdır",
+      "2 sayısının 15. kuvvetidir",
+      "Silikonun erime noktasıdır"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "726",
+    "mode": "estimate",
+    "category": "TEKNOLOJİ • TAHMİN",
+    "statement": "1977 yılında uzaya fırlatılan Voyager 1 sondasındaki Platin kaplı Altın Kayıt'ın tahmini dayanma ömrü kaç yıldır?",
+    "answerHeadline": "Tam 1 Milyar Yıl",
+    "deepDiveText": "Uzayın neredeyse tamamen boş olan ortamında aşınma veya korozyon riski bulunmadığından, platin korumalı altın kaplama bakır disk üzerindeki verilerin 1 milyar yıl boyunca bozulmadan kalacağı hesaplanmıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/726.jpg",
+    "options": [
+      "100 Bin Yıl",
+      "50 Milyon Yıl",
+      "1 Milyar Yıl"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "727",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Güneş Sistemimizdeki bilinen en büyük kuyruklu yıldız çekirdeği Bernardinelli-Bernstein'ın çapı yaklaşık 120 kilometredir.",
+    "answerHeadline": "DOĞRU! Dev kuyruklu yıldız keşfedildi.",
+    "deepDiveText": "2014 yılında tespit edilen ve Oort bulutundan gelen Bernardinelli-Bernstein, geleneksel kuyruklu yıldızlardan yaklaşık 10 kat daha büyüktür. Bu devasa gök cisminin kütlesi, sıradan bir kuyruklu yıldızın yaklaşık 100 bin katına ulaşmaktadır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/727.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "728",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Astronotların uzay kıyafetlerinin dış katmanında kurşun zırh kaplaması kullanılarak kozmik radyasyon tamamen engellenir.",
+    "answerHeadline": "YANLIŞ! Kurşun zırh kullanılmaz.",
+    "deepDiveText": "Kurşun hem çok ağır olduğu hem de ikincil radyasyon (Bremsstrahlung) ürettiği için uzay giysilerinde tercih edilmez. Radyasyondan korunmak için su, polietilen ve Kevlar gibi hidrojen zengini hafif sentetik malzemeler kullanılır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/728.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "729",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Apollo astronotlarının Ay yüzeyinde bıraktığı sismometreler, Ay'ın iç yapısında tektonik sarsıntılar olduğunu kanıtlamıştır.",
+    "answerHeadline": "DOĞRU! Ay'da sarsıntılar gerçekleşir.",
+    "deepDiveText": "Apollo görevleri sırasında yerleştirilen sismometreler, Ay'ın soğuyup büzülmesi ve Dünya'nın kütleçekim stresi nedeniyle 5 büyüklüğüne varan depremler kaydetmiştir. Bu sarsıntılar bazen 10 dakikadan fazla sürmektedir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/729.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "730",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Güneş'in korona katmanı, çekirdeğinden daha yüksek bir sıcaklığa sahiptir.",
+    "answerHeadline": "YANLIŞ! Çekirdek çok daha sıcaktır.",
+    "deepDiveText": "Güneş'in dış atmosferi olan korona yaklaşık 1 ila 3 milyon Kelvin sıcaklığa ulaşarak yüzeyden çok daha sıcak olsa da çekirdek sıcaklığı 15 milyon Kelvin'dir. Koronanın yüzeyden sıcak olması ise astrofiziğin çözülmeye çalışan gizemlerinden biridir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/730.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "731",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Nötron yıldızlarının yaydığı inanılmaz güçlü manyetik alanlar atomların şeklini iğne benzeri yapılara dönüştürebilir.",
+    "answerHeadline": "DOĞRU! Atomik yapılar bozulur.",
+    "deepDiveText": "Magnetar olarak bilinen nötron yıldızlarının manyetik alanı kuantum düzeyinde etkiler yaratacak kadar güçlüdür. Bu aşırı manyetik alan altında elektron bulutları deforme olarak atomları uzun, ince silindirik biçimlere sokar.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/731.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "732",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Satürn'ün uydusu Titan'ın atmosfer basıncı Dünya atmosfer basıncından daha düşüktür.",
+    "answerHeadline": "YANLIŞ! Titan'ın basıncı daha yüksektir.",
+    "deepDiveText": "Titan, Güneş Sistemi'nde yoğun bir atmosfere sahip tek uydudur ve yüzey basıncı Dünya'dakinden yaklaşık %50 daha fazladır. Kalın azot atmosferi ve düşük yerçekimi nedeniyle insan bir kanat takarak Titan'da uçabilir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/732.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "733",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Güneş Rüzgarı'nın heliopoz sınırında yıldızlararası ortamla karşılaştığı bölgede devasa bir sıcak hidrojen duvarı bulunur.",
+    "answerHeadline": "DOĞRU! Hidrojen duvarı mevcuttur.",
+    "deepDiveText": "Voyager uzay araçları ve New Horizons verileri, Güneş Sistemimizin bittiği yerde yıldızlararası hidrojen gazının biriktiği bir bölgeyi doğrulamıştır. Bu yapı Güneş rüzgarının yıldızlararası rüzgarla çarpışıp yavaşlamasıyla oluşur.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/733.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "734",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Uranüs'ün uydusu Miranda, geçmişte parçalanıp kütleçekim etkisiyle tekrar birleştiği düşünülen kaotik bir yüzeye sahiptir.",
+    "answerHeadline": "DOĞRU! Miranda kaotik bir yapıdadır.",
+    "deepDiveText": "Voyager 2 tarafından fotoğraflanan Miranda, Güneş Sistemi'ndeki en kanyonlu ve düzensiz jeolojik yapılara sahiptir. Bilim insanları dev bir çarpışma sonucu parçalanıp tekrar bir araya toplandığını hipotez etmektedir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/734.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "735",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Jüpiter'in uydusu Io, sürekli volkanik patlamalar yarattığı için etrafında radyoaktif gazdan oluşan bir halka taşır.",
+    "answerHeadline": "YANLIŞ! Halka radyoaktif gazdan oluşmaz.",
+    "deepDiveText": "Io'nun püskürttüğü kükürt diyoksit gazları Jüpiter'in manyetosferinde iyonlaşarak 'nötr torus' adı verilen plazma simidi oluşturur. Ancak bu yapı radyoaktif bir gaz halkası değil, iyonize olmuş kükürt ve sodyum plazmasıdır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/735.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "736",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Samanyolu Galaksisi ile Andromeda'nın merkezindeki süper kütleli kara delikler şu anda kütleçekimsel dalgalar yayarak birbirini çekmektedir.",
+    "answerHeadline": "YANLIŞ! Henüz bu aşamada değiller.",
+    "deepDiveText": "İki galaksi yaklaşık 4.5 milyar yıl sonra birleşecektir ancak merkezlerindeki kara delikler henüz birbiri etrafında dönmemektedir. Algılanabilir kütleçekimsel dalgalar sadece kara deliklerin birleşmesine son birkaç yıl kaldığında yayınlanır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/736.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "737",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Merkür'ün yörüngesindeki hassas sapmalar, Albert Einstein'ın Genel Görelilik Kuramı'nın doğrulanan ilk gözlemsel kanıtıdır.",
+    "answerHeadline": "DOĞRU! Görelilik kanıtlanmıştır.",
+    "deepDiveText": "Newton fiziği Merkür'ün günberi yalpalamasını (günberi kayması) tam olarak açıklayamıyordu. Einstein'ın uzay-zaman bükülmesi denklemleri bu sapmayı kusursuz biçimde hesaplayarak teoriye büyük bir zafer kazandırdı.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/737.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "738",
+    "mode": "true_false",
+    "category": "UZAY",
+    "statement": "Venüs'ün atmosferindeki yoğun kükürt bulutları nedeniyle gezegen yüzeyine sürekli saf sülfürik asit yağmuru ulaşır.",
+    "answerHeadline": "YANLIŞ! Asit yüzeye ulaşamaz.",
+    "deepDiveText": "Venüs'ün üst atmosferinde sülfürik asit damlaları oluşup yağsa da yüksek yüzey sıcaklığı (yaklaşık 460°C) nedeniyle bu damlalar yüzeye ulaşamadan buharlaşır. Bu olaya 'virga' adı verilir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/738.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "739",
+    "mode": "estimate",
+    "category": "UZAY • TAHMİN",
+    "statement": "Tarihteki ilk yapay uydu Sputnik 1'in Dünya etrafındaki bir tam yörünge turu kaç dakika sürmüştür?",
+    "answerHeadline": "Sputnik 1'in Yörünge Süresi",
+    "deepDiveText": "1957 yılında uzaya fırlatılan SSCB yapımı Sputnik 1, Saatte 29.000 kilometre hızla hareket ediyordu. Uydu, Dünya etrafındaki bir turunu yaklaşık 96.2 dakikada tamamlamaktaydı.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/739.jpg",
+    "options": [
+      "96 dakika",
+      "142 dakika",
+      "60 dakika"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": "740",
+    "mode": "estimate",
+    "category": "UZAY • TAHMİN",
+    "statement": "Güneş Sistemimizin bilinen en yüksek uçurumu olan Miranda üzerindeki Verona Rupes'in yüksekliği kaç kilometredir?",
+    "answerHeadline": "Güneş Sisteminin En Yüksek Uçurumu",
+    "deepDiveText": "Uranüs'ün uydusu Miranda'da bulunan Verona Rupes yaklaşık 20 kilometre derinliğe sahiptir. Miranda'nın düşük yerçekimi yüzünden bu uçurumdan atlayan bir nesnenin dibe ulaşması 12 dakika sürer.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/740.jpg",
+    "options": [
+      "5 km",
+      "20 km",
+      "50 km"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "741",
+    "mode": "estimate",
+    "category": "UZAY • TAHMİN",
+    "statement": "Dünya'dan fırlatılan en hızlı insan yapımı nesne olan Parker Solar Probe'un ulaştığı rekor hız saatte kaç kilometredir?",
+    "answerHeadline": "Reor Kıran İnsan Yapımı Hız",
+    "deepDiveText": "NASA'nın Parker Güneş Sondası, Güneş'in kütleçekiminden yararlanarak 2023 yılında saatte yaklaşık 635.266 kilometre hıza ulaşmıştır. Bu hız, İstanbul ile Londra arasını 15 saniyede katetmeye denktir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/741.jpg",
+    "options": [
+      "240.000 km/s",
+      "635.000 km/s",
+      "1.100.000 km/s"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "742",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "18. yüzyılda İsveç ile Rusya arasındaki barış antlaşması, diplomatların iki gün boyunca aralıksız satranç oynamasıyla karara bağlanmıştır.",
+    "answerHeadline": "YANLIŞ! Görüşmeler diplomasiyle yürütülmüştür.",
+    "deepDiveText": "İsveç ve Rusya arasındaki 1721 Nystad Barış Antlaşması aylarca süren zorlu diplomatik müzakereler sonucu imzalanmıştır. Tarafların anlaşmazlıkları satranç partisiyle çözdüğü iddiası tamamen kurgusal bir şehir efsanesidir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/742.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "743",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "İngiltere Kralı VIII. Henry'nin krallık odasında abdestini ve tuvalet ihtiyacını takip eden resmi unvanlı bir saray görevlisi vardı.",
+    "answerHeadline": "DOĞRU! Groom of the Stool unvanı mevcuttu.",
+    "deepDiveText": "'Groom of the Stool' adlı bu görevli, kralın boşaltım süreçlerini yardımcı olmakla ve kralın sağlığını izlemekle sorumluydu. Mahrem bilgiye erişimi nedeniyle bu makam, Tudor döneminde sarayın en nüfuzlu ve güçlü pozisyonlarından biri haline gelmişti.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/743.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "744",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "1904 St. Louis Olimpiyat Maratonu'nu kazanan atlet, yarışın büyük bölümünü bir otomobilin içinde yolculuk ederek tamamlamıştı.",
+    "answerHeadline": "DOĞRU! Fred Lorz yarışı arabayla geçti.",
+    "deepDiveText": "Amerikalı atlet Fred Lorz, kramp girdiği için yarışın 18 milini antrenörünün arabasında gitmiş ve bitiş çizgisine yakın inip birinci olmuştur. Hilesi kısa sürede anlaşılınca madalyası elinden alınmış ve diskalifiye edilmiştir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/744.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "745",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "Bizans İmparatorluğu'nda patrikler, imparatorun gözlerine mil çekme cezasını kilise hukuku gereği kutsal yağ ile infaz ederdi.",
+    "answerHeadline": "YANLIŞ! Kutsal yağ kullanılmazdı.",
+    "deepDiveText": "Bizans'ta taht rakiplerini kör etme cezası dini liderler değil, saray infazcıları veya askerler tarafından kızgın demir ya da bıçak kullanılarak uygulanırdı. İşlem sırasında herhangi bir dini ayin veya kutsal yağ kullanılması söz konusu değildi.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/745.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "746",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "1883'teki Krakatoa yanardağ patlamasının sesi, yaklaşık 4.800 kilometre uzaklıktan insan kulağıyla duyulabilmiştir.",
+    "answerHeadline": "DOĞRU! Tarihin en yüksek sesi kaydedildi.",
+    "deepDiveText": "Endonezya'daki patlama o kadar şiddetliydi ki, Mauritius adası ve Avustralya'nın batısından bile patlama sesleri net şekilde işitildi. Bu olay, modern tarihte kaydedilen en yüksek ses dalgası olarak literatüre geçmiştir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/746.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "747",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "Osmanlı Devleti, 19. yüzyılda İrlanda'da yaşanan Kıtlık döneminde adaya yardım ulaştırmak için resmi diplomatik elçilik kurmuştur.",
+    "answerHeadline": "YANLIŞ! İnsani yardım gemileri gönderilmiştir.",
+    "deepDiveText": "Sultan Abdülmecid, 1845 Büyük Kıtlığı sırasında İrlanda halkına nakit para yardımı yapmış ve gıda taşıyan üç gemi göndermiştir. Ancak bu insani müdahale sırasında bölgede kalıcı bir elçilik veya diplomatik misyon tesis edilmemiştir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/747.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "748",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "18. yüzyıl Prusya Kralı I. Friedrich Wilhelm, sırf uzun boylu askerlerden oluşan 'Potsdam Devleri' adlı özel bir birlik kurmuştu.",
+    "answerHeadline": "DOĞRU! Sadece uzun askerler toplayan alay.",
+    "deepDiveText": "Kral, boyu en az 1,88 metre olan askerleri Avrupa'nın dört bir yanından toplayarak 'Lange Kerle' adında elit bir muhafız birliği oluşturmuştur. Bu askerlerin üremesini sağlamak için uzun boylu kadınlarla evlendirilmelerine yönelik zorlama politikalar bile yürütülmüştür.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/748.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "749",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "Avustralya ordusu, 1932 yılında tarım alanlarını tahrip eden emulara karşı resmi olarak makineli tüfeklerle savaş açmıştır.",
+    "answerHeadline": "DOĞRU! Büyük Emu Savaşı yaşanmıştır.",
+    "deepDiveText": "Ekinleri korumak için Lewis makineli tüfekleriyle donatılmış askerler binlerce devekuşu benzeri emuya karşı operasyon düzenlemiştir. Kuşların beklenmedik taktiksel dağılımı nedeniyle askerler başarısız olmuş ve operasyon geri çekilmeyle sonuçlanmıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/749.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "750",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "Papa IX. Gregory, kedilerin şeytanla ilişkili olduğunu ilan eden fermanıyla Avrupa'da veba salgınını doğrudan durdurmuştur.",
+    "answerHeadline": "YANLIŞ! Aksine vebayı şiddetlendirmiş olabilir.",
+    "deepDiveText": "1233 yılındaki 'Vox in Rama' fermanı kara kedileri şeytanla bağdaştırmış ve toplu kedi katliamlarına yol açmıştır. Kedi nüfusunun azalması, veba taşıyan sıçanların çoğalmasına zemin hazırlayarak salgının yayılmasını kolaylaştırmıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/750.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "751",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "1814 yılında Londra'da bir bira fabrikasındaki tankın patlaması sonucu sokakları su basmış ve 8 kişi hayatını kaybetmiştir.",
+    "answerHeadline": "DOĞRU! Londra Bira Selı yaşandı.",
+    "deepDiveText": "Meux and Company fabrikasındaki devasa bira fıçısının patlamasıyla 1,4 milyon litreden fazla bira sokaklara akmıştır. Yıkılan binalar ve dalganın şiddeti nedeniyle sekiz kişi boğularak veya enkaz altında kalarak yaşamını yitirmiştir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/751.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "752",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "Napolyon Savaşları sırasında İngiliz denizciler, bir İngiliz limanına sığınan Fransız amiralini casusluk suçlamasıyla idam etmiştir.",
+    "answerHeadline": "YANLIŞ! Maymunu casus sanıp astılar.",
+    "deepDiveText": "Hartlepool kasabası sakinleri, karaya vuran bir Fransız gemisinden sağ kurtulan tek canlı olan askeri üniformalı bir maymunu Fransız casusu sanmıştır. Fransızca bilmediği ve casus olduğu kanaatiyle hayvanı yargılayıp idam etmişlerdir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/752.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "753",
+    "mode": "true_false",
+    "category": "TARİH",
+    "statement": "19. yüzyılda Amerika'da diş protezleri yapımında kullanılan dişlerin büyük kısmı Waterloo Muharebesi'nde ölen askerlerden toplanmıştı.",
+    "answerHeadline": "DOĞRU! Waterloo Dişleri olarak adlandırıldı.",
+    "deepDiveText": "Savaş alanında ölen genç ve sağlıklı askerlerin dişleri yağmacılar tarafından sökülerek tıp pazarına satılmıştır. 'Waterloo Dişleri' olarak bilinen bu protezler, porselen diş teknolojisi gelişene kadar zengin sınıf tarafından yaygın şekilde kullanılmıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/753.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "754",
+    "mode": "estimate",
+    "category": "TARİH • TAHMİN",
+    "statement": "1925 yılında Yunanistan ile Bulgaristan arasında bir Yunan askerinin kaçan köpeğinin peşinden sınırı geçmesiyle başlayan savaş kaç gün sürmüştür?",
+    "answerHeadline": "Savaş toplam 10 gün sürmüştür.",
+    "deepDiveText": "Demir Hisar (Struma) sınırında meydana gelen bu olay 'Yaramaz Köpek Savaşı' olarak tarihe geçmiştir. Milletler Cemiyeti'nin araya girmesiyle 10 gün içinde çatışmalar durdurulmuş ve Yunanistan tazminat ödemek zorunda kalmıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/754.jpg",
+    "options": [
+      "10 gün",
+      "45 gün",
+      "110 gün"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": "755",
+    "mode": "estimate",
+    "category": "TARİH • TAHMİN",
+    "statement": "Zamanın ölçümünü standartlaştırmak için kurulan Greenwich Kraliyet Gözlemevi hangi yılda inşa edilmiştir?",
+    "answerHeadline": "Gözlemevi 1675 yılında inşa edildi.",
+    "deepDiveText": "Kral II. Charles tarafından deniz seyrüseferini ve boylam hesabını geliştirmek amacıyla kurulmuştur. Kraliyet Astronomu John Flamsteed, gözlemevinin ilk yöneticisi olarak atanmıştır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/755.jpg",
+    "options": [
+      "1543",
+      "1675",
+      "1789"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "756",
+    "mode": "estimate",
+    "category": "TARİH • TAHMİN",
+    "statement": "1335 yılında Lubeck kentinde patlak veren 'Tuz Savaşı' sırasında şehir kasabalarından kaç ton kaya tuzu imha edilmiştir?",
+    "answerHeadline": "Yaklaşık 400 ton tuz yok edildi.",
+    "deepDiveText": "Hanse Birliği içindeki ticaret monopolü anlaşmazlıkları nedeniyle tüccarlar rakiplerinin stoklarını nehre dökerek imha etmiştir. Bu olay Kuzey Avrupa'daki tuz ticaret rotalarının tamamen yeniden çizilmesine sebep olmuştur.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/756.jpg",
+    "options": [
+      "50 ton",
+      "400 ton",
+      "1500 ton"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "757",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Grönland köpekbalığı, cinsel olgunluğa erişebilmek için yaklaşık 150 yıl beklemek zorundadır.",
+    "answerHeadline": "DOĞRU! Yavaş metabolizma geç olgunlaşır.",
+    "deepDiveText": "Radyokarbon tarihlendirme yöntemleri, bu türün en az 272 yıl yaşadığını ve 150 yaşına kadar üreme yeteneği kazanmadığını göstermiştir. Çok soğuk sular altında çalışan aşırı yavaş metabolizmaları, bu ekstrem uzun ömrün temel sebebidir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/757.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "758",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Afrika'da yaşayan akasya ağaçları, zürafalar yapraklarını yemeye başladığında komşu ağaçlara etilen gazı salgılayarak uyarı gönderir.",
+    "answerHeadline": "DOĞRU! Kimyasal savunma ağı çalışır.",
+    "deepDiveText": "Otlama başladığında akasyalar yapraklarındaki tanen miktarını hızla artırarak onları zehirli hale getirir ve havaya etilen yayar. Rüzgarla gazı alan yakındaki ağaçlar, henüz zürafalar ulaşmadan kendi tanen seviyelerini yükseltir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/758.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "759",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Okaliptüs ağaçları, yapraklarındaki uçucu yağlar sayesinde bilerek yangın çıkararak rakiplerini yok eder.",
+    "answerHeadline": "DOĞRU! Yangın odaklı üreme stratejisi.",
+    "deepDiveText": "Okaliptüs yaprakları yanıcılığı artıran yağlar dökerek orman tabanında patlayıcı bir kütle oluşturur. Yıldırım düştüğünde çıkan yangında kendisi kütükten hızla sürgün verirken diğer bitki türleri tamamen yok olur.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/759.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "760",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Deep-sea anglerfish (derin deniz fener balığı) erkekleri, dişinin vücuduna kaynayıp organ haline gelerek yaşar.",
+    "answerHeadline": "DOĞRU! Aşırı cinsel parazitlik örneği.",
+    "deepDiveText": "Zifiri karanlık okyanus derinliklerinde erkek balık dişiyi bulduğunda onu ısırır ve zamanla dokuları tamamen dişininkiyle birleşir. Erkek, gözlerini ve iç organlarını kaybederek sadece dişiye sperm sağlayan bir uzantıya dönüşür.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/760.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "761",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Pando adı verilen tek bir Titrek Kavak kolonisi, kütlesel olarak gezegenin bilinen en ağır canlısıdır.",
+    "answerHeadline": "DOĞRU! Devasa kök ağı organizması.",
+    "deepDiveText": "Utah'ta bulunan ve 47.000'den fazla gövdeden oluşan Pando, kök sistemiyle birbirine bağlı tek bir genetik bireydir. Toplam kütlesi yaklaşık 6.000 tonu bularak Mavi Balina'yı katbekat geride bırakır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/761.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "762",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Laysan albatrosu türüne ait kuşlar, yumurtalarını büyütmek için her yıl sırayla cinsiyet değiştirme yeteneğine sahiptir.",
+    "answerHeadline": "YANLIŞ! Cinsiyet değişimi kuşlarda görünmez.",
+    "deepDiveText": "Kuşlarda ardışık hermafroditizm tespit edilmemiştir; Laysan albatroslarında gözlemlenen sıradışı durum dişi-dişi çiftleşmeleridir. Erkek birey eksikliğinde iki dişi birleşerek aynı yuvada nöbetleşe kuluçkaya yatar.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/762.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "763",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Toprak altında yaşayan belirli cırcır böceği türleri, asal sayı olan 13 veya 17 yılda bir yeryüzüne çıkar.",
+    "answerHeadline": "DOĞRU! Matematiksel evrimsel döngü.",
+    "deepDiveText": "Periyodik ağustos böcekleri (Magicicada) yeraltında tam 13 ya da 17 yıl nymphe olarak kaldıktan sonra senkronize biçimde yeryüzüne çıkar. Asal sayı döngüsü, avcıların popülasyon patlamalarıyla bu çıkışların çakışmasını engeller.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/763.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "764",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Büyük Sahra Çölü'ndeki kum fırtınalarından kalkan tozlar, Amazon Yağmur Ormanları'nın ana gübre kaynağını oluşturur.",
+    "answerHeadline": "DOĞRU! Kıtalararası besin taşınması.",
+    "deepDiveText": "Çad'daki kadim gök yatağı Bodélé Depresyonu'ndan kalkan fosfor zengini tozlar Atlantik'i geçerek Amazon'a ulaşır. Yağmurlarla toprağa karışan bu mineraller, tropik ormanın besin döngüsünü ayakta tutar.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/764.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "765",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Kuzey Kutbu'nda yaşayan ren geyiklerinin göz rengi, kışın karanlığında daha iyi görmek için kahverengiden maviye döner.",
+    "answerHeadline": "DOĞRU! Mevsimsel göz dokusu değişimi.",
+    "deepDiveText": "Kışın göz içi basıncının artmasıyla retina arkasındaki 'tapetum lucidum' tabakasındaki kolajen liflerin mesafesi sıkışır. Bu fiziksel değişim yansıyan ışığı maviye kaydırarak alacakaranlıkta görüş hassasiyetini artırır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/765.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "766",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Venüs sinekkapan bitkisi, avını sindirirken etrafındaki havaya küçük elektriksel kıvılcımlar yayarak diğer böcekleri çeker.",
+    "answerHeadline": "YANLIŞ! İletim elektrikidir, kıvılcım yoktur.",
+    "deepDiveText": "Venüs sinekkapanı tetik tüylerine dokunulduğunda aksiyon potansiyeli adı verilen elektriksel sinyaller üretir ancak kıvılcım çıkarmaz. Kapanın kapanması kalsiyum iyonlarının hücre içi hareketiyle sağlanan hidrostatik bir mekanizmadır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/766.jpg",
+    "isTrue": false
+  },
+  {
+    "id": "767",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Biolüminesans gösteren mantarlar, sporlarını yaymak amacıyla geceleri yeşil ışık saçarak böcekleri kendine çeker.",
+    "answerHeadline": "DOĞRU! Işık saçan mantar sporu.",
+    "deepDiveText": "Neonothopanus gardneri gibi mantarlar luciferin maddesini oksitleyerek yeşil ışık üretir. Rüzgarın az olduğu sık ormanlarda bu ışık gece böceklerini çekerek sporların böcek vücudunda taşınmasını sağlar.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/767.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "768",
+    "mode": "true_false",
+    "category": "DOĞA",
+    "statement": "Bakteriler topraktaki mineralleri sindirirken saf altın parçacıkları biriktirebilir.",
+    "answerHeadline": "DOĞRU! Biyomineralizasyon ile altın üretimi.",
+    "deepDiveText": "Cupriavidus metallidurans adlı bakteri, toksik altın iyonlarını zararsız hale getirmek için onları hücre dışında nano boyutta saf altın külçelerine dönüştürür. Bu süreç jeolojik altın yataklarının oluşumunda etkilidir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/768.jpg",
+    "isTrue": true
+  },
+  {
+    "id": "769",
+    "mode": "estimate",
+    "category": "DOĞA • TAHMİN",
+    "statement": "Yeryüzündeki tüm canlı ağaçların ve ormanların ürettiği yıllık oksijenin ne kadarı denizel fitoplanktonlar tarafından sağlanır?",
+    "answerHeadline": "Oksijenin çoğu denizlerden gelir.",
+    "deepDiveText": "Dünya oksijeninin yarısından fazlası okyanus yüzeyindeki mikroskobik fotosentetik organizmalar olan fitoplanktonlar ve siyanobakteriler tarafından üretilir. Kara ormanları üretimin sadece bir kısmını üstlenir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/769.jpg",
+    "options": [
+      "%20-30",
+      "%50-80",
+      "%90-95"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "770",
+    "mode": "estimate",
+    "category": "DOĞA • TAHMİN",
+    "statement": "Tek bir fırtına bulutunun (Cumulonimbus) içinde taşınan ortalama su kütlesinin ağırlığı yaklaşık kaç tondur?",
+    "answerHeadline": "Gökyüzünde yarım milyon ton su.",
+    "deepDiveText": "Tipik bir fırtına bulutu devasa hacmi nedeniyle bünyesinde yaklaşık 500.000 ton su damlacığı ve buz kristali taşır. Bu ağırlık yüzlerce yolcu uçağının toplam kütlesine eşdeğerdir.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/770.jpg",
+    "options": [
+      "5.000 ton",
+      "500.000 ton",
+      "50.000.000 ton"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "771",
+    "mode": "estimate",
+    "category": "DOĞA • TAHMİN",
+    "statement": "Okyanus tabanındaki hidrotermal bacaların (ak bacalar) etrafında fışkıran suyun sıcaklığı kaç dereceye ulaşabilir?",
+    "answerHeadline": "Aşırı basınçta aşırı sıcak su.",
+    "deepDiveText": "Derin deniz tabanında yüksek basınç altında su kaynamadan 400 °C'nin üzerindeki sıcaklıklara ulaşabilir. Güneş ışığının sıfır olduğu bu ortamlarda yaşam kemosentez yapan kükürt bakterilerine dayanır.",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/furkanok52/ilginc-app-data@main/images/771.jpg",
+    "options": [
+      "120 °C",
+      "407 °C",
+      "950 °C"
+    ],
+    "correctOptionIndex": 1
   }
 ]
